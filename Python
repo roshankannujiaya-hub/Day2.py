@@ -1,1 +1,29 @@
 # Day2.py
+print(" Hello Roshan kannaujiya ")
+print(" My age 19 ")
+print(" Hello Roshan kannaujiya"," My age 19")
+
+
+
+
+print(25)
+print(10+20)
+print(1,2,3,4,5,6,7,8,9,)
+
+
+
+
+name ="Roshan kannaujiya "
+age = 19
+price = 25.555
+print("my name is: ",name )
+print ("my age is : ",age )
+
+
+
+name ="Roshan kannujiya"
+age = 19
+price = 25.5555
+print(type(name))
+print(type(age))
+print(type(price))
